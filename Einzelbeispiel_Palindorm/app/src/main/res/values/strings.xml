@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Einzelbeispiel_Palindorm</string>
+    <string name="header">Palindrom?</string>
+    <string name="inputLabel">Eingabe String:</string>
+    <string name="inputBox">String >= 5 Zeichen</string>
+    <string name="buttonCheck">Check String</string>
 </resources>
